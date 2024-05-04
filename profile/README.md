@@ -1,7 +1,7 @@
 # Byte Networks
 
 
-Byte Networks is a IT Solutions company based in South Florida. We work with Volico Datacenters to host ours and your equipment. Byte Networks specializes in Web Development, System Admininistration, Network Services, Colocation & Managed Hosting. 
+Byte Networks is a IT Solutions company based in South Florida. We work with Volico Datacenters to host ours and your equipment. Byte Networks specializes in Web Development, System Admininistration, Network Services, Colocation & Managed Hosting. With employees doing different jobs globally, Byte Networks has you covered with anything you need in the tech realm, from Hardware Deployments on-site to remove management, we can do it.
 
 Head to https://bytenetworks.io to get started today!
 
