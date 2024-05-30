@@ -5,4 +5,4 @@ Byte Networks is a IT Solutions company based in South Florida. We work with IM-
 
 Head to https://bytenetworks.io to get started today!
 
-Want to join our Discord? Go to: https://discord.bytenetworks.io to join!
+Want to join our Discord? Go to: https://bytenetworks.io/discord to join!
